@@ -1,0 +1,12 @@
+C:\developer\unityws\lecture\vs\Lecture-CSharpGraph\bin\Debug\netcoreapp3.1\Lecture-CSharpGraph.exe
+C:\developer\unityws\lecture\vs\Lecture-CSharpGraph\bin\Debug\netcoreapp3.1\Lecture-CSharpGraph.deps.json
+C:\developer\unityws\lecture\vs\Lecture-CSharpGraph\bin\Debug\netcoreapp3.1\Lecture-CSharpGraph.runtimeconfig.json
+C:\developer\unityws\lecture\vs\Lecture-CSharpGraph\bin\Debug\netcoreapp3.1\Lecture-CSharpGraph.runtimeconfig.dev.json
+C:\developer\unityws\lecture\vs\Lecture-CSharpGraph\bin\Debug\netcoreapp3.1\Lecture-CSharpGraph.dll
+C:\developer\unityws\lecture\vs\Lecture-CSharpGraph\bin\Debug\netcoreapp3.1\Lecture-CSharpGraph.pdb
+C:\developer\unityws\lecture\vs\Lecture-CSharpGraph\obj\Debug\netcoreapp3.1\Lecture-CSharpGraph.AssemblyInfoInputs.cache
+C:\developer\unityws\lecture\vs\Lecture-CSharpGraph\obj\Debug\netcoreapp3.1\Lecture-CSharpGraph.AssemblyInfo.cs
+C:\developer\unityws\lecture\vs\Lecture-CSharpGraph\obj\Debug\netcoreapp3.1\Lecture-CSharpGraph.csproj.CoreCompileInputs.cache
+C:\developer\unityws\lecture\vs\Lecture-CSharpGraph\obj\Debug\netcoreapp3.1\Lecture-CSharpGraph.dll
+C:\developer\unityws\lecture\vs\Lecture-CSharpGraph\obj\Debug\netcoreapp3.1\Lecture-CSharpGraph.pdb
+C:\developer\unityws\lecture\vs\Lecture-CSharpGraph\obj\Debug\netcoreapp3.1\Lecture-CSharpGraph.genruntimeconfig.cache
